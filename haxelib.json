@@ -1,15 +1,13 @@
 {
 	"name": "lime",
-	"url": "https://github.com/openfl/lime",
+	"url": "https://github.com/GengYan0/lime-rainy-fork",
 	"license": "MIT",
 	"tags": [],
-	"description": "A foundational Haxe framework for cross-platform development",
+	"description": "Lime 8.3.2 build baseline, unmodified. Pins the native layer so the OpenFL and Flixel builds above it stay reproducible.",
 	"version": "8.3.2",
-	"releasenote": "Various bug fixes",
+	"releasenote": "Build baseline for 8.3.2, no source changes.",
 	"contributors": [
-		"singmajesty",
-		"bowlerhat",
-		"Dimensionscape"
+		"RainyEngine"
 	],
 	"classPath": "src"
 }
