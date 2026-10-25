@@ -1,6 +1,6 @@
-# Rainy fork of Lime 8.3.2
+# rainy-lime 技术说明
 
-Upstream: [openfl/lime](https://github.com/openfl/lime) 8.3.2, MIT.
+基线是 8.3.2，未改任何源码。
 
 ## No source changes
 
